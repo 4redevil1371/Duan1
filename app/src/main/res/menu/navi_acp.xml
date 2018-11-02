@@ -2,21 +2,27 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_one"
+        android:id="@+id/acp_1"
         android:enabled="true"
         android:icon="@mipmap/ic_new"
         android:title="One"
         app:showAsAction="always" />
     <item
-        android:id="@+id/action_two"
+        android:id="@+id/acp_2"
         android:enabled="true"
         android:icon="@mipmap/ic_new"
         android:title="Two"
         app:showAsAction="always" />
     <item
-        android:id="@+id/action_three"
+        android:id="@+id/acp_3"
         android:enabled="true"
         android:icon="@mipmap/ic_new"
         android:title="Three"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/acp_4"
+        android:enabled="true"
+        android:icon="@mipmap/ic_new"
+        android:title="Four"
         app:showAsAction="always" />
 </menu>
